@@ -1,4 +1,4 @@
-# CODESYS USB Auto-Mapping Solution
+# CODESYS DEPLOY CONTROL SL - Auto_Mapping USB TO SERIALS
 
 **Date:** 2026-01-09  
 **System:** macOS mini with CODESYS IDE + Docker containers  

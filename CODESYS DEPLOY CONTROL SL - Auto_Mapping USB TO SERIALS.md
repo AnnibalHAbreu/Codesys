@@ -291,7 +291,7 @@ if [[ "${ARGS[0]}" == "run" ]]; then
 fi
 
 # Execute the real Docker binary
-exec /usr/bin/docker. real "${ARGS[@]}"
+exec /usr/bin/docker.real "${ARGS[@]}"
 ```
 
 ### Step 3: Make Wrapper Executable
